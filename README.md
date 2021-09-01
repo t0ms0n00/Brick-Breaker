@@ -1,3 +1,4 @@
 # Brick-Breaker
-2nd project for OOP course at AGH UST  
-###### 3/3 points
+2nd project for Object-Oriented Programming course at AGH UST  
+
+Version with power-ups of popular computer game
